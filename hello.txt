@@ -1,0 +1,2 @@
+Hello Alor,
+This file was created in your test Project folder.
